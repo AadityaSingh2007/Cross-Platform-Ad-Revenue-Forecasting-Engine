@@ -3,5 +3,7 @@ pandas
 numpy
 scikit-learn
 joblib
-xgboost
 matplotlib
+xgboost
+python-dotenv
+google-genai
